@@ -1,0 +1,221 @@
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+C:\Users\ADMIN\Desktop\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+D:\Downloads\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Shared.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\bin\Debug\stdole.dll
+D:\HK5\CongNghe .NET\Huy\CNNet-main\CNNet-main\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Report_KiemKe.resources
+F:\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+F:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+F:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Shared.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\bin\Debug\stdole.dll
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Report_KiemKe.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+D:\HK5\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Report_KiemKe.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+C:\Users\ADMIN\Desktop\đồ án form\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CNNet-main\Nhom13\Nhom13\bin\Debug\stdole.dll
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Report_KiemKe.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CopyComplete
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+E:\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe.config
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.exe
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\Nhom13.pdb
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.AssemblyReference.cache
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmAdmin.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frmDangNhap.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Home.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Nhaphang.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.frm_Report_KiemKe.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.Properties.Resources.resources
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.GenerateResource.cache
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.CoreCompileInputs.cache
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.csproj.Up2Date
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.exe
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\obj\Debug\Nhom13.pdb
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\CrystalDecisions.Shared.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\log4net.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\log4net.xml
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+E:\Tài liệu\Project\Kỳ 5\CN .Net\Tiểu luận\CNNet-main\Nhom13\Nhom13\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|e:\\t\u00E0i li\u1EC7u\\project\\k\u1EF3 5\\cn .net\\ti\u1EC3u lu\u1EADn\\cnnet-main\\nhom13\\nhom13\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|solutionrelative:nhom13\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|e:\\t\u00E0i li\u1EC7u\\project\\k\u1EF3 5\\cn .net\\ti\u1EC3u lu\u1EADn\\cnnet-main\\nhom13\\nhom13\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|solutionrelative:nhom13\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|e:\\t\u00E0i li\u1EC7u\\project\\k\u1EF3 5\\cn .net\\ti\u1EC3u lu\u1EADn\\cnnet-main\\nhom13\\nhom13\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|solutionrelative:nhom13\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|e:\\t\u00E0i li\u1EC7u\\project\\k\u1EF3 5\\cn .net\\ti\u1EC3u lu\u1EADn\\cnnet-main\\nhom13\\nhom13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|solutionrelative:nhom13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|e:\\t\u00E0i li\u1EC7u\\project\\k\u1EF3 5\\cn .net\\ti\u1EC3u lu\u1EADn\\cnnet-main\\nhom13\\nhom13\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28714C6F-9F38-45AD-82FD-C1FB79CD70EB}|Nhom13\\Nhom13.csproj|solutionrelative:nhom13\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 177,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "Nhom13\\frmAdmin.cs",
+              "ToolTip": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "Nhom13\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:37:08.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "Nhom13\\frmAdmin.cs",
+              "ToolTip": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmAdmin.cs",
+              "RelativeToolTip": "Nhom13\\frmAdmin.cs",
+              "ViewState": "AQIAAKgBAAAAAAAAAAA6wLIBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:04:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Nhom13\\frmDangNhap.cs",
+              "ToolTip": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmDangNhap.cs",
+              "RelativeToolTip": "Nhom13\\frmDangNhap.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAvwDMAAADOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:00:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom13\\Program.cs",
+              "ToolTip": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\Program.cs",
+              "RelativeToolTip": "Nhom13\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:59:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Nhom13\\frmDangNhap.cs",
+              "ToolTip": "E:\\T\u00E0i li\u1EC7u\\Project\\K\u1EF3 5\\CN .Net\\Ti\u1EC3u lu\u1EADn\\CNNet-main\\Nhom13\\Nhom13\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "Nhom13\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:55:33.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
